@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "latest"
   },
   "dependencies": {
     "@babel/plugin-transform-runtime": "^7.16.10",
